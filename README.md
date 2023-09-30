@@ -14,6 +14,10 @@ paddlepaddle官网及安装指导：https://www.paddlepaddle.org.cn/
 
 地址：https://aistudio.baidu.com/modelsdetail/10?modelId=10
 
-2直接运行moving_playing.py
+2
 
-3.演示视频地址：
+直接运行moving_playing.py
+
+3
+
+演示视频地址：
