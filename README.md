@@ -16,7 +16,7 @@ paddlepaddle官网及安装指导：https://www.paddlepaddle.org.cn/
 
 2
 
-直接运行moving_playing.py
+直接运行主程序 moving_playing.py
 
 3
 
