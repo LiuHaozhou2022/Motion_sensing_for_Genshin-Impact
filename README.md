@@ -25,3 +25,4 @@ paddlepaddle官网及安装指导（PaddlePaddle website and installation guide�
 3
 
 演示视频地址(Demo video website)：
+【体感玩原神--运动又提神-哔哩哔哩】 https://b23.tv/bejHhua
